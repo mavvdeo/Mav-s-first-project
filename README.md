@@ -1,1 +1,1 @@
-# Mav-s-first-project
+open .git/config
